@@ -4,6 +4,7 @@
 
 
 .App{
+  background-color: cornflowerblue;
   display: flex;
   justify-content: center;
   flex-direction: column;
